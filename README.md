@@ -1,5 +1,5 @@
 # Map-of-DataScience
-Notice: This repository consists of my personal study notes for the Data Science study, Please refer to the following content. For privacy, I keep most of them as private.
+Notice: This repository consists of my personal study notes for the Data Science study, for privacy I keep them as private (not pushed).
 
 ### Basic
 - Mathematics
